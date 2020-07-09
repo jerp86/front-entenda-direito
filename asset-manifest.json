@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.b13e0720.chunk.js",
-    "main.js.map": "/static/js/main.b13e0720.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e3005075.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e3005075.js.map",
-    "static/js/2.7e84fd6a.chunk.js": "/static/js/2.7e84fd6a.chunk.js",
-    "static/js/2.7e84fd6a.chunk.js.map": "/static/js/2.7e84fd6a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2906eff1bf20156f765f94fd297f53f3.js": "/precache-manifest.2906eff1bf20156f765f94fd297f53f3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.7e84fd6a.chunk.js.LICENSE.txt": "/static/js/2.7e84fd6a.chunk.js.LICENSE.txt",
-    "static/media/background.jpg": "/static/media/background.a49dcf9c.jpg",
-    "static/media/forgot-password.jpg": "/static/media/forgot-password.6c919960.jpg",
-    "static/media/logo.svg": "/static/media/logo.c65fd4bf.svg",
-    "static/media/sign-up.jpg": "/static/media/sign-up.526a333a.jpg"
+    "main.js": "/front-entenda-direito/static/js/main.b13e0720.chunk.js",
+    "main.js.map": "/front-entenda-direito/static/js/main.b13e0720.chunk.js.map",
+    "runtime-main.js": "/front-entenda-direito/static/js/runtime-main.0cc37f45.js",
+    "runtime-main.js.map": "/front-entenda-direito/static/js/runtime-main.0cc37f45.js.map",
+    "static/js/2.b9ee9291.chunk.js": "/front-entenda-direito/static/js/2.b9ee9291.chunk.js",
+    "static/js/2.b9ee9291.chunk.js.map": "/front-entenda-direito/static/js/2.b9ee9291.chunk.js.map",
+    "index.html": "/front-entenda-direito/index.html",
+    "precache-manifest.8f26a2ea00e4381e51b6fd547ad8d492.js": "/front-entenda-direito/precache-manifest.8f26a2ea00e4381e51b6fd547ad8d492.js",
+    "service-worker.js": "/front-entenda-direito/service-worker.js",
+    "static/js/2.b9ee9291.chunk.js.LICENSE.txt": "/front-entenda-direito/static/js/2.b9ee9291.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/front-entenda-direito/static/media/background.a49dcf9c.jpg",
+    "static/media/forgot-password.jpg": "/front-entenda-direito/static/media/forgot-password.6c919960.jpg",
+    "static/media/logo.svg": "/front-entenda-direito/static/media/logo.c65fd4bf.svg",
+    "static/media/sign-up.jpg": "/front-entenda-direito/static/media/sign-up.526a333a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3005075.js",
-    "static/js/2.7e84fd6a.chunk.js",
+    "static/js/runtime-main.0cc37f45.js",
+    "static/js/2.b9ee9291.chunk.js",
     "static/js/main.b13e0720.chunk.js"
   ]
 }
